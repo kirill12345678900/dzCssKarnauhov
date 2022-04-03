@@ -1,0 +1,90 @@
+.h1ForFirst{
+    text-decoration: overline;
+    text-align: center;
+    margin-bottom: -8px;
+    letter-spacing: 6px;
+    word-spacing: 4px;
+} 
+.pForFirst{
+    text-align: center;
+    line-height: 0.5;
+    font-weight: 600;
+    letter-spacing: 4px;
+}
+
+.h1ForOthers{
+    text-align: center;
+    margin-bottom: 20px;
+    font-style: italic;
+} 
+
+.pForOthers{
+    text-indent: 25px;
+    padding-left: 18px;
+    padding-right: 5px;
+    line-height: 1.9em;
+}
+
+.first{
+    border: none;
+    margin: 0 auto;
+    width: auto;
+    height: 200px;
+    background-color: #64a171;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.second{
+    border: 5px dotted black;
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 420px;
+    height: 180px;
+    background-color: yellow;
+    overflow-x: hidden;
+}
+
+.third{
+    border: 5px dashed black;
+    margin-top: -5px;
+    margin-left: 1420px;
+    width: 420px;
+    height: 180px;
+    background-color: #7ab320;
+    overflow-x: hidden;
+}
+
+.fourth{
+    border: 5px dashed black;
+    margin-left: 400px;
+    width: 420px;
+    height: 180px;
+    background-color: #955ab0;
+    overflow-x: hidden;
+}
+
+.fifth{
+    border: 5px dotted black;
+    margin-left: 900px;
+    width: 420px;
+    height: 180px;
+    background-color: #eb6a6a;
+    overflow-x: hidden;
+}
+
+.GreenDotted{
+    border-bottom: 2px dotted green;
+    color: green;
+    text-align: center;
+    line-height: 0.5;
+    letter-spacing: 4px;
+    font-weight: 800;
+}
+
+.del {
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+
+
